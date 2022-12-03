@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'webdatarocks-icons';
+	src: url(../../fonts/webdatarocks-icons.woff) format('woff'),
+	url(../../fonts/webdatarocks-icons.ttf) format('truetype'),
+	url(../../assets/fonts/../assets/webdatarocks-icons.svg) format('svg');
+	font-weight: 400;
+	font-style: normal;
+	font-display: auto;
+}

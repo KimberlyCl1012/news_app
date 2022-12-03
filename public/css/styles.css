@@ -1,0 +1,119 @@
+/*Style*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgba(255, 0, 0, 0.048);
+    font-family: 'Playfair Display', serif;
+    background-color: #f9f7f1;
+    font-size: 15px;
+}
+
+/*Principal titles*/
+h1 {
+    margin-top: 2rem;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.subhead {
+    text-transform: uppercase;
+    border-bottom: 2px solid #2f2f2f;
+    border-top: 2px solid #2f2f2f;
+    padding: 12px 0 12px 0;
+}
+
+.content-body {
+    margin: 2rem;
+}
+
+p {
+    text-align: justify;
+}
+
+.subtitle {
+    font-weight: 600;
+}
+
+.principal-text{
+    color: #000;
+    font-size: 25px;
+    font-family: 'DM Serif Display', serif;
+}
+
+/*Action button*/
+.active {
+    color: #000;
+    font-weight: 700;
+}
+
+/*Box*/
+.box-login {
+    border: 3px double #2f2f2f;
+    padding: 10px 15px 10px 15px;
+    line-height: 20px;
+}
+
+/*Buttons*/
+.btn-login {
+    text-transform: capitalize;
+    margin-left: 1rem;
+    cursor: pointer;
+    color: #2f2f2f;
+}
+
+.btn-login:hover {
+    color: #000;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.btn-form-login-can {
+    background-color: rgb(255, 255, 255);
+    padding: 5px 10px;
+    color: #2f2f2f;
+    border: 1px solid #90323D;
+    border-radius: 10px 3px;
+}
+
+.btn-form-login-can:hover {
+    color: #90323D;
+    font-weight: 600;
+}
+
+
+.btn-form-login-suc {
+    background-color: rgb(255, 255, 255);
+    padding: 5px 10px;
+    color: #2f2f2f;
+    border: 1px solid #606C38;
+    border-radius: 10px 3px;
+}
+
+.btn-form-login-suc:hover {
+    color: #606C38;
+    font-weight: 600;
+}
+
+/*Cards*/
+.desc-img{
+    font-style: italic;
+    text-align: center;
+}
+
+.card-title{
+    text-align: start;
+    font-weight: 600;
+}
+
+.card-news-imp{
+    background-color: darkgoldenrod;
+}
+
+
+
+/*Card news*/
+
